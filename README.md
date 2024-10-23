@@ -17,11 +17,11 @@ Create an ESP32 project using the ESP32CAM.
 -[https://randomnerdtutorials.com/esp8266-nodemcu-send-messages-whatsapp/](https://randomnerdtutorials.com/esp8266-nodemcu-send-messages-whatsapp/)
 -[https://www.callmebot.com/](https://www.callmebot.com/)
 
-##### Youtube Video 1: [https://studio.youtube.com/video/y71e6WVouvE/edit](https://studio.youtube.com/video/y71e6WVouvE/edit)
+##### Youtube Video 1: [ESP32 Sending Alert Message To WhatsApp](https://www.youtube.com/watch?v=1CWIgxkviuU&t=1s&ab_channel=TechTOnions)
 
-##### Youtube Video 2: 
+##### Youtube Video 2: [Using WhatsApp with your ESP32 and other μControllers](https://www.youtube.com/watch?v=Tp8CTeV5j1Q&ab_channel=RalphSBacon)
 
-##### Other Links: [https://api.callmebot.com/whatsapp.php?phone=%5Bphone_number%5D&text=%5Bmessage%5D&apikey=%5Byour_apikey%5D](https://api.callmebot.com/whatsapp.php?phone=%5Bphone_number%5D&text=%5Bmessage%5D&apikey=%5Byour_apikey%5D)
+##### Other Links: [ESP32: Send Messages to WhatsApp](https://randomnerdtutorials.com/esp32-send-messages-whatsapp/)
 
 
 ## Steps I followed
